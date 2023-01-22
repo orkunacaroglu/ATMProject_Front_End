@@ -1,0 +1,18 @@
+.editIcon{
+    color:blueviolet;
+    cursor: pointer;
+}
+
+.deleteIcon{
+    color: red;
+    cursor: pointer;
+}
+
+.css-11y2m0r-MuiTableCell-root{
+    font-family: 'DynaPuff';
+}
+
+.detailIcon{
+    color:cadetblue;
+    cursor: pointer;
+}
